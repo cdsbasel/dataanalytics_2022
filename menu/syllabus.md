@@ -7,7 +7,7 @@ title: Syllabus
 Dirk Wulff (<a href="mailto:dirk.wulff@unibas.ch">contact</a>), Rui Mata (<a href="mailto:rui.mata@unibas.ch">contact</a>)
 
 ## Venue
-Zoom
+tba
 
 ## Background
 Data is everywhere and is being used to answer many questions concerning our wealth, health, and productivity. The aim of this seminar is to enable you to thoughtfully and actively use data science to help answer meaningful questions in a wide variety of domains. The course will consist of 1) introductory sessions on data science techniques using R, 2) the application of these techniques in a group project over the course of the semester, 3) discussion with experts (meet-the-expert events) to learn about opportunities and challenges of data analytics in psychology and business.
