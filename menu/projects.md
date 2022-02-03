@@ -18,51 +18,63 @@ title: Student projects
     <td ><b>What</b></td>
   </tr>
   <tr>
-    <td>12.03.</td>
+    <td>25.02.</td>
     <td>Building groups</td>
   </tr>
   <tr>
-    <td>12.03. - 25.03.</td>
+    <td>25.02. - 18.03.</td>
     <td>Find 1-3 project ideas and corresponding datasets</td>
   </tr>
   <tr>
-    <td >25.03. - <b>noon</b></td>
+    <td >11.03. - <b>noon</b></td>
     <td>Email ideas to <a href="mailto:rui.mata@unibas.ch?subject=Student project ideas"><b>Rui</b></a></td>
   </tr>
   <tr>
-    <td >26.03.</td>
+    <td >15.03.</td>
     <td>Receive feedback on project ideas</td>
   </tr>
   <tr>
-    <td >26.03. - 09.04.</td>
-    <td>Prepare project proposal and pitch</td>
+    <td>18.03.</td>
+    <td>Present project pitch pitch</td>
+  </tr>
+   <tr>
+    <td>18.03. - 25.03</td>
+    <td>Revise project pitch pitch</td>
   </tr>
   <tr>
-    <td >09.04.</td>
-    <td>Pitch project proposal</td>
+    <td>25.03.</td>
+    <td>Present revised project pitch</td>
   </tr>
   <tr>
-    <td >09.04. - 23.04.</td>
+    <td>25.03. - 08.04.</td>
     <td>Project work</td>
   </tr>
   <tr>
-    <td >23.04.</td>
-    <td>Project meetings</td>
+    <td >08.04.</td>
+    <td>Project meetings: analysis</td>
   </tr>
   <tr>
-    <td >23.04. - 07.05.</td>
+    <td >08.04. - 29.04.</td>
     <td>Project work</td>
   </tr>
-  <tr>
-    <td >07.05.</td>
-    <td>Project meetings</td>
+   <tr>
+    <td >29.04.</td>
+    <td>Project meetings: analysis</td>
   </tr>
   <tr>
-    <td >07.05. - 21.05.</td>
-    <td>Finalize project and prepare presentation</td>
+    <td >29.04. - 20.05.</td>
+    <td>Project work and prepare presentations</td>
   </tr>
   <tr>
-    <td >21.05.</td>
+    <td >20.05.</td>
+    <td>Project meetings: presentation</td>
+  </tr>
+  <tr>
+    <td >20.05. - 27.05.</td>
+    <td>Finalize project and presentation</td>
+  </tr>
+  <tr>
+    <td >27.05.</td>
     <td>Deliver final presentation<u>s</u></td>
   </tr>
 </table>
