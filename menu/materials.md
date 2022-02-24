@@ -58,6 +58,7 @@ title: Materials
   </tr>
 </table>
 
+<!---
 
 ## Session 2: Statistical modeling & Markdown
 
@@ -187,6 +188,8 @@ The data are taken from the `College` dataset in the `ISLR` package. They contai
 | `perc.alumni` | Pct. alumni who donate. |
 | `Expend` | Instructional expenditure per student. |
 | `Grad.Rate` | Graduation rate. |
+
+--->
 
 <!----
 ### Home exercises
