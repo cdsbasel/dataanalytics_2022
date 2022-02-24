@@ -12,12 +12,12 @@ If you cannot bring a laptop to the course please let us know asap.
 Use the following links to install the newest versions of Base-R und RStudio.
 
 ### Install Base-R
-<a href="https://cran.r-project.org/bin/windows/base/R-4.1.2-win.exe">R 4.0.4 (Windows)</a>,
-<a href="https://cran.r-project.org/bin/macosx/base/R-4.1.2.pkg">R 4.0.4 (Mac)</a><br>
+<a href="https://cran.r-project.org/bin/windows/base/R-4.1.2-win.exe">R 4.1.2 (Windows)</a>,
+<a href="https://cran.r-project.org/bin/macosx/base/R-4.1.2.pkg">R 4.1.2 (Mac)</a><br>
 
 ### Install RStudio
-<a href="https://download1.rstudio.org/desktop/windows/RStudio-2022.02.0-443.exe">RStudio 1.4 (Windows)</a>,
-<a href="https://download1.rstudio.org/desktop/macos/RStudio-2022.02.0-443.dmg">RStudio 1.4 (Mac)</a>
+<a href="https://download1.rstudio.org/desktop/windows/RStudio-2022.02.0-443.exe">RStudio 2022 (Windows)</a>,
+<a href="https://download1.rstudio.org/desktop/macos/RStudio-2022.02.0-443.dmg">RStudio 2022 (Mac)</a>
 
 ## 2 - Install necessary packages
 
