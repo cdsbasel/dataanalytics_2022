@@ -7,7 +7,6 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Syllabus',   path: 'menu', url: 'syllabus.html'}
-- {name: 'Readings',   path: 'menu', url: 'readings.html'}
 - {name: 'Materials',   path: 'menu', url: 'materials.html'}
 - {name: 'Projects',   path: 'menu', url: 'projects.html'}
 - {name: 'Meet-the-expert',   path: 'menu', url: 'meet-the-expert.html'}
