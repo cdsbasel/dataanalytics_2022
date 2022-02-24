@@ -89,6 +89,3 @@ td {
   <td>Student presentations; meet-the-expert event</td>
 </tr>
 </table>
-
-## Course Readings
-Course <a href="readings"><b>readings</b></a> will be provided throughout the semester.
